@@ -1,0 +1,14 @@
+.ball {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ball-text {
+    font-size: x-large;
+    color: white;
+}
+
+
